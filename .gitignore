@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+Data/
+Datasets/
+Papers & Links/
+Whiteboard.png
+experiments_dir/
+libnvinfer7_7.1.3-1+cuda11.0_amd64.deb
+nvidia-machine-learning-repo-ubuntu1804_1.0.0-1_amd64.deb
+nvidia-machine-learning-repo-ubuntu1804_1.0.0-1_amd64.deb1
+nvidia-machine-learning-repo-ubuntu1804_1.0.0-1_amd64.deb.1
+nvidia-machine-learning-repo-ubuntu1804_1.0.0-1_amd64.deb.2
